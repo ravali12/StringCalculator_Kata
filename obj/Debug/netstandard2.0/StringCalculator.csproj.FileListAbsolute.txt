@@ -1,0 +1,8 @@
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.deps.json
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.pdb
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfo.cs
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.dll
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.pdb
+C:\Users\savasarala\source\repos\StringCalculator\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csprojAssemblyReference.cache
